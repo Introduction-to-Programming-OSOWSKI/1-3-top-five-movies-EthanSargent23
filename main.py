@@ -1,4 +1,4 @@
 def topFiveMovies(a, b, c, d, e):
-    return a " " b " " c " " d " " e 
+    return a + " " + b + " " + c + " " + d + " " + e 
 
-print(wordSmash("asdfjl" ))
+print(topFiveMovies("THOR,","Maze Runner,","Guardians of the Galaxy,","Black Panther,","The Dark Knight"))
